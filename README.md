@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# To-Do-List
+To-Do List is a simple and interactive app to manage daily tasks efficiently. It allows users to add, edit, delete, and mark tasks as complete. Features include task prioritization, filtering, and due date management to help stay organized and boost productivity.
+>>>>>>> 33f1525dcb2d0953dae5d92f76d9141d757f9ccf
